@@ -1,6 +1,6 @@
 ## Multi-objective Particle Swarm Optimization (MOPSO) for an artificial problem. ##
 
-The MOPSO algorithm searches for a set of non-dominated solutions (Pareto front) by optimizing two conflicting objectives.
+The MOPSO algorithm created v C++ searches for a set of non-dominated solutions (Pareto front) by optimizing two conflicting objectives.
 Particles in the swarm represent potential solutions, moving through the decision space guided by personal and global best positions.
 
 The problem is inspired by Example 20.2 in a book of Dan Simon (2013): Evolutionary Optimization Algorithms.
